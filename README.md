@@ -1,2 +1,3 @@
 # humanAi
-This is my first repository
+This is my first repository.
+learning AI
